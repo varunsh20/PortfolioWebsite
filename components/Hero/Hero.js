@@ -14,7 +14,7 @@ const Hero = () => (
       <SectionText>
       A Passionate Blockchain and Web3 Developer having specialization in Building Smart Contracts and Innovative Full-Stack dApps with Experience in Java Back-End Development
       </SectionText>
-      <a href='https://drive.google.com/file/d/1GWGdCEm5gR6Zuesq6ZeiBs4-3xluT2H8/view?usp=sharing'
+      <a href='https://drive.google.com/file/d/1G8MlWuKgWMkbzsAaP65IU2HD_Xcx8eXu/view?usp=sharing'
       target='_blank' rel="noopener noreferrer"><Button>Resume</Button></a>
     </LeftSection>
   </Section>
