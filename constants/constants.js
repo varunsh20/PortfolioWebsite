@@ -1,0 +1,55 @@
+export const projects = [
+  {
+    title: 'HedgeInsurX',
+    description: "A Safe and Secure Yield Generating platform through DeFi Strategies, Backed by On-Chain Insurance along with the capability of Cross-Chain asset transfers through Bridge.",
+    image: '/images/p1.png',
+    tags: ['Solidity','HardHat','ERC4626','PolygonID','React'],
+    source: 'https://github.com/varunsh20/HedgeInsurX',
+    visit: 'https://hedgeinsurx.netlify.app/',
+    id: 0,
+  },
+  {
+    title: 'Lens Mind',
+    description: "Lens Mind is a more Transparent, Secure and User-Friendly Social Media platform built on the Lens protocol, which offers a truly Decentralized experience to users with users having full Ownership and Control over their Data and Content. ",
+    image: '/images/p2.png',
+    tags: ['GraphQL','Lens-Sdk', 'Ethers.js','React'],
+    source: 'https://github.com/varunsh20/Lens-Mind',
+    visit: 'https://lensmind.netlify.app/',
+    id: 1,
+  },
+  {
+    title: 'Mintly',
+    description: "Mintly is an NFT Marketplace that allows Artists to convert their Digital Content like Art, Music, Videos, Podcasts, Tickets etc into Non-Fungible Tokens(NFT's) using ERC-1155 token standard. ",
+    image: '/images/p3.png',
+    tags: ['Solidity','HardHat','Ethers.js', 'ERC-1155','React'],
+    source: 'https://github.com/varunsh20/Mintly',
+    visit: 'https://mintly.netlify.app/',
+    id: 2,
+  },
+  {
+    title: 'Care Share',
+    description: "A decentralized healthcare dapp build on polygon mumbai where users can connect easily with doctors around the world and book appointments with them. Their data is completely secured and tamper proof and can be accessed with ease.",
+    image: '/images/p4.png',
+    tags: ['Solidity','HardHat','IPFS', 'Huddle01','React'],
+    source: 'https://github.com/varunsh20/CareShare',
+    visit: 'https://careshare.netlify.app/',
+    id: 3,
+  },
+  {
+    title: 'eVoting dApp',
+    description: "It is a Decentralized Voting Application on the mumbai testnet that allows users to conduct completely fair and transparent election campaigns without any bad practices. Users can also take part in any of the ongoing campaign and cast their vote.",
+    image: '/images/p5.png',
+    tags: ['Solidity','HardHat','Ethers.js', 'React'],
+    source: 'https://github.com/varunsh20/EVOTING_DAPP',
+    visit: 'https://evotingdapp.netlify.app/',
+    id: 4,
+  },
+];
+
+export const TimeLineData = [
+  { year: 2017, text: 'Started my journey', },
+  { year: 2018, text: 'Worked as a freelance developer', },
+  { year: 2019, text: 'Founded JavaScript Mastery', },
+  { year: 2020, text: 'Shared my projects with the world', },
+  { year: 2021, text: 'Started my own platform', },
+];
