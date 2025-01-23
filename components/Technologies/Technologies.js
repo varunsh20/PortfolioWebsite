@@ -18,7 +18,7 @@ const Technologies = () =>  (
           <ListTitle>Programming Languages</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Solidity, JavaScript, Java, Python and C++.
+            Solidity, JavaScript, TypeScript, Java and Python.
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -28,7 +28,7 @@ const Technologies = () =>  (
           <ListTitle>Frameworks and Libraries</ListTitle>
           <ListParagraph>
             Experience with <br />
-            React.js, Node.js, Hardhat, Remix, Ethers.js, IPFS, ChakraUI and Spring Framework.
+            ReactJS, NodeJS, Spring Boot, ExpressJS, Foundary, Hardhat, Remix, Ethers.js, IPFS, ChakraUI.
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -38,7 +38,7 @@ const Technologies = () =>  (
           <ListTitle>Infrastructure and DevOps</ListTitle>
           <ListParagraph>
             Experience with <br />
-            MongoDB,MySQL, AWS, Postman, Git/GitHub and Netlify.
+            MongoDB, MySQL, AWS, OVH, GCP, Docker, Linux, Postman, Git/GitHub and Netlify.
           </ListParagraph>
         </ListContainer>
       </ListItem>

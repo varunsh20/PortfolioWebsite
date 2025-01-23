@@ -46,11 +46,9 @@ const Timeline = () => {
     <Section id='about'>
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        I&apos;m Varun Sharma, working as a Java Back-End Developer at GlobalLogic, where I build RESTful APIs using Spring Framework. I&apos;m currently focused on Web3 and Blockchain Technology,
-        having Knowledge and experience of working with Ethereum and EVM compatible chains, writing safe and secure Smart-Contracts along with different EIPs(20, 721, 1155, 4626 etc).
-        I develop user-friendly and responsive Full-Stack Decentralized Applications(dApps) that actually solves some real world problems in the field of Finance, Healthcare, Social Media etc.
-        I like to explore and follow new and Emerging Sectors of the Web3 space like DeFi, Digital Identites, RWAs, Layer 2s, Security, NFTs, Payments and much more.
-        I&apos;m open for Working and Contributing in the Blockchain space and expand my Knowledge and skill set.
+      Currently working as a Blockchain Developer at InfraSingularity, I specialize in managing infrastructure for different AVSs and Validator Nodes across various chains on both mainnet and testnet. With strong expertise in scaling distributed systems and building reliable backend applications, I focus on Web3 and Blockchain technologies. I have hands-on experience with Ethereum and EVM-compatible chains, writing secure Smart Contracts while working with various EIPs (20, 721, 1155, 4626, etc.).
+
+      I stay up-to-date with the latest trends in the Web3 space, exploring sectors such as DeFi, Staking & Restaking, Digital Identities, Real-World Assets (RWAs), Layer 2 solutions, NFTs, and Payments. My goal is to continuously contribute to the Blockchain ecosystem and expand my knowledge and skill set in this fast-evolving field.
          
 
 

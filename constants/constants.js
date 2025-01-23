@@ -1,5 +1,14 @@
 export const projects = [
   {
+    title: 'EquiToken',
+    description: "EquiToken is a platform for tokenizing real-world assets, allowing users to buy and sell tokenized stocks backed 1:1 by actual shares, with transactions executed on-chain for enhanced security and transparency.",
+    image: '/images/equi-1.png',
+    tags: ['Solidity','Foundary','Chainlink Functions','React'],
+    source: 'https://github.com/varunsh20/Equitoken-ETH-Singapore',
+    visit: 'https://equitoken.netlify.app/',
+    id: 0,
+  },
+  {
     title: 'HedgeInsurX',
     description: "A Safe and Secure Yield Generating platform through DeFi Strategies, Backed by On-Chain Insurance along with the capability of Cross-Chain asset transfers through Bridge.",
     image: '/images/p1.png',
